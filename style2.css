@@ -1,0 +1,11 @@
+body{
+    background: url('pexel1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    text-align:center;
+    color:darkorange;
+} 
+#img1{
+margin:0px auto;
+}
